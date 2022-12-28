@@ -1,0 +1,54 @@
+input{
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+body{
+
+background-color: #bbe4e9;
+
+
+}
+h1{
+  color: white;
+  font-size: 300%;
+  margin: 50px auto 0 auto;
+  font-family: Arial;
+  margin-bottom: 80px;
+  text-align: center;
+}
+p{
+
+font-size: 150%;
+color: white;
+
+
+}
+.customer_form{
+
+text-align:center;
+display: inline-block;
+padding: 50px;
+background-color: powderblue;
+border: 2px solid black;
+
+}
+.div{
+  text-align: center;
+
+
+}
+a{
+font-size: 200%;
+color: #11999e;
+margin: 10px 20px;
+text-decoration: none;
+
+
+}
+a:hover{
+
+  color: #eaf6f6;
+}

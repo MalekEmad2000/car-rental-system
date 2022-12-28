@@ -1,0 +1,85 @@
+input{
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+body{
+
+background-color: #bbe4e9;
+
+
+}
+
+h1{
+  color: white;
+  font-size: 300%;
+  margin: 50px auto 0 auto;
+  font-family: Arial;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+p{
+
+font-size: 150%;
+color: white;
+
+
+}
+.div{
+  text-align: center;
+
+
+}
+
+.customer_form{
+
+text-align:center;;
+display: inline-block;
+padding: 50px;
+background-color: powderblue;
+border: 2px solid black;
+
+}
+.reservation_button{
+
+margin-top: 40px;
+
+
+}
+.div{
+
+  background-color: #e84a5f;
+}
+.middle{
+text-align: left;
+background-color: #9896f1;
+text-align: center;
+
+}
+table {
+border-collapse: collapse;
+width: 100%;
+color: #588c7e;
+font-family: monospace;
+font-size: 25px;
+}
+th {
+background-color: #588c7e;
+color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+a{
+font-size: 200%;
+color: #11999e;
+margin: 10px 20px;
+text-decoration: none;
+text-align: center;
+
+
+}
+a:hover{
+
+  color: #eaf6f6;
+}
